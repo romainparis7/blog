@@ -1,0 +1,28 @@
+i
+{
+    border-radius: 50px;
+    border-style: solid;
+    height: 50px;
+    display:flex;
+}
+
+#yazid
+{
+    font-size: 20px;
+}
+.fas
+{
+flex-direction: row;
+
+}
+
+#like
+{
+color:green;
+
+}
+#dislike
+{
+color:red;
+
+}
